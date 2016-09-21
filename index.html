@@ -2,8 +2,7 @@
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
 </head>
-<body></body>
-</html>
+<body>
 
 <meta content="width=device-width, maximum-scale=1" name="viewport" />
 <title>Uni&atilde;o Star Wars</title>
@@ -49,6 +48,7 @@
 	<li><a href="#sobre">Quem somos</a></li>
 	<li><a href="#Portfolio">Membros</a></li>
 	<li><a href="#contact">Contato</a></li>
+	<li><a href="/blog">Blog</a></li>
 </ul>
 </div>
 </nav>
@@ -173,6 +173,13 @@
 	<h3>Desordem Jedi da Holonet</h3>
 	
 	<p>Grupo Facebook</p>
+	</div>
+	
+	<div class="Portfolio-box channel_youtube"><a href="https://www.youtube.com/channel/UCVUu0ad7NpI-vGykwYcZFBA" target="_blank"><img alt="" src="img/projeto/em_algum_lugar.png" /> </a>
+	
+	<h3>Em Algum Lugar do Universo</h3>
+	
+	<p>Canal Youtube</p>
 	</div>
 	
 	<div class="Portfolio-box noticias"><a href="http://www.failwars.blog.br/" target="_blank"><img alt="" src="img/projeto/failwars1.png" /> </a>
@@ -441,11 +448,11 @@
 	<li class="twitter"><a href="https://twitter.com/uniaostarwars" target="_blank"><i class="fa-twitter"></i></a></li>
 	<li class="dribbble"><a href="https://www.instagram.com/uniaostarwars/" target="_blank"><i class="fa-instagram"></i></a></li>
 	<li class="pinterest"><a target="_blank" href="https://www.youtube.com/channel/UCfWn3DSM1ihM2C7PSNp7NkA"><i class="fa-youtube"></i></a></li>
-	<!--
+					<!--
 	                    <li class="pinterest"><a href="#"><i class="fa-pinterest"></i></a></li>
 	                    <li class="gplus"><a href="#"><i class="fa-google-plus"></i></a></li>
 	                    <li class="dribbble"><a href="#"><i class="fa-dribbble"></i></a></li>
-	                    -->
+	                -->
 </ul>
 </div>
 </div>
@@ -453,53 +460,56 @@
 </div>
 
 <footer class="footer">
-<div class="container">
-<div class="footer-logo"><a href="#header"><img alt="" src="img/footer-logo.png" /></a></div>
-<span class="copyright">Star Wars e seus personagens s&atilde;o propriedade da Lucasfilm e Disney.</span> <span class="copyright">Desenvolvido por <a href="mailto:domingosjunior87@gmail.com">Domingos Coelho</a>.</span></div>
+	<div class="container">
+	<div class="footer-logo"><a href="#header"><img alt="" src="img/footer-logo.png" /></a></div>
+	<span class="copyright">Star Wars e seus personagens s&atilde;o propriedade da Lucasfilm e Disney.</span> <span class="copyright">Desenvolvido por <a href="mailto:domingosjunior87@gmail.com">Domingos Coelho</a>.</span></div>
 </footer>
 <script type="text/javascript">
-	    $(document).ready(function(e) {
-	        $('#test').scrollToFixed();
-	        $('.res-nav_click').click(function(){
-	            $('.main-nav').slideToggle();
-	            return false    
-	            
-	        });
-	        
-	    });
-	</script><script>
-	    wow = new WOW(
-	      {
-	        animateClass: 'animated',
-	        offset:       100
-	      }
-	    );
-	    wow.init();
-	    document.getElementById('').onclick = function() {
-	      var section = document.createElement('section');
-	      section.className = 'wow fadeInDown';
-	      this.parentNode.insertBefore(section, this);
-	    };
-	  </script><script type="text/javascript">
-		$(window).load(function(){
+    $(document).ready(function(e) {
+        $('#test').scrollToFixed();
+        $('.res-nav_click').click(function(){
+            $('.main-nav').slideToggle();
+            return false    
+            
+        });
+        
+    });
+</script>
+<script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       100
+      }
+    );
+    wow.init();
+    document.getElementById('').onclick = function() {
+      var section = document.createElement('section');
+      section.className = 'wow fadeInDown';
+      this.parentNode.insertBefore(section, this);
+    };
+</script>
+<script type="text/javascript">
+	$(window).load(function(){
+		
+		$('.main-nav li a').bind('click',function(event){
+			var $anchor = $(this);
 			
-			$('.main-nav li a').bind('click',function(event){
-				var $anchor = $(this);
-				
-				$('html, body').stop().animate({
-					scrollTop: $($anchor.attr('href')).offset().top - 102
-				}, 1500,'easeInOutExpo');
-				/*
-				if you don't want to use the easing effects:
-				$('html, body').stop().animate({
-					scrollTop: $($anchor.attr('href')).offset().top
-				}, 1000);
-				*/
-				event.preventDefault();
-			});
-		})
-	</script><script type="text/javascript">
-	
+			$('html, body').stop().animate({
+				scrollTop: $($anchor.attr('href')).offset().top - 102
+			}, 1500,'easeInOutExpo');
+			/*
+			if you don't want to use the easing effects:
+			$('html, body').stop().animate({
+				scrollTop: $($anchor.attr('href')).offset().top
+			}, 1000);
+			*/
+			event.preventDefault();
+		});
+	})
+</script>
+
+<script type="text/javascript">
 	$(window).load(function(){
 	  
 	  
@@ -542,5 +552,6 @@
 	    });
 	  
 	});
-	
-	</script>
+</script>
+</body>
+</html>
