@@ -9,6 +9,22 @@
 	<link href="favicon.png" rel="icon" type="image/png" />
 	<link href="favicon.ico" rel="shortcut icon" type="img/x-icon" />
 
+	<!-- Facebook -->
+	<meta property="og:url" content="http://uniaostarwars.com/" />
+	<meta property="og:title" content="Uni«ªo Star Wars" />
+	<meta property="og:description" content="Reuni«ªo dos principais ve«¿culos voltados exclusivamente «¢ maior saga de todos os tempos." />
+	<meta property="og:image" content="http://uniaostarwars.com/img/logo_usw.jpg" />
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content="pt_BR" />
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:url" content="http://uniaostarwars.com/" />
+	<meta name="twitter:title" content="Uni«ªo Star Wars" />
+	<meta name="twitter:description" content="Reuni«ªo dos principais ve«¿culos voltados exclusivamente «¢ maior saga de todos os tempos." />
+	<meta name="twitter:image"content="http://uniaostarwars.com/img/logo_usw.jpg" />
+	
+
 	<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,800italic,700italic,600italic,400italic,300italic,800,700,600" rel="stylesheet" type="text/css" />
 
@@ -17,7 +33,7 @@
 	<link href="css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link href="css/responsive.css" rel="stylesheet" type="text/css" />
 	<link href="css/animate.css" rel="stylesheet" type="text/css" />
-	
+
 	<!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
 	<script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.js"></script>
@@ -81,7 +97,7 @@
 					</div>
 				</div>
 			
-				<figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s" style="text-align: center;"><img alt="" src="img/logo_usw.png" style="max-width: 70%;" /></figure>
+				<figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s" style="text-align: center;"><img alt="" src="img/logo_usw.jpg" style="max-width: 70%;" /></figure>
 			</div>
 		</div>
 	</section>
@@ -180,7 +196,7 @@
 	    $(document).ready(function(e) {
 	    	var dados = "";
 
-	    	$.getJSON("http://localhost/outros/usw/membros.json", function( data ) {
+	    	$.getJSON("http://uniaostarwars.com/membros.json", function( data ) {
 				$.each( data, function( key, membro ) {
 					dados = dados + '<div class="Portfolio-box ' + membro.class + '">';
 					dados = dados + '<a href="' + membro.url + '" target="_blank">';
