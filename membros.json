@@ -1,0 +1,303 @@
+[
+   {
+      "nome":"Aliança Sith FSA",
+      "url":"https://www.facebook.com/aliancasithfsa/",
+      "imagem":"alianca_sith.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Arsenal Imperial",
+      "url":"https://www.facebook.com/arsenalimperial",
+      "imagem":"arsenal.png",
+      "tipo":"Enciclopédia",
+      "class":"enciclopedia"
+   },
+   {
+      "nome":"Battlefront Brasil",
+      "url":"http://battlefrontbrasil.blogspot.com/",
+      "imagem":"br_brasil.png",
+      "tipo":"Jogos / Notícias e Resenhas",
+      "class":"jogos noticias"
+   },
+   {
+      "nome":"Blades Saber Team",
+      "url":"http://www.bladesteam.com.br/",
+      "imagem":"saber_team.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Cast Wars",
+      "url":"http://castwars.com/",
+      "imagem":"castwars.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Clone Troopers",
+      "url":"https://www.facebook.com/clonetroopers02",
+      "imagem":"clone_troopers.png",
+      "tipo":"Enciclopédia",
+      "class":"enciclopedia"
+   },
+   {
+      "nome":"Dark Vader",
+      "url":"https://www.facebook.com/darkvaderblog",
+      "imagem":"darkvader.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Datacron",
+      "url":"http://www.jedicenter.com.br/category/podcast/datacron/",
+      "imagem":"datacron.png",
+      "tipo":"Podcast",
+      "class":"podcast"
+   },
+   {
+      "nome":"Desabrigados da Estrela da morte",
+      "url":"https://www.facebook.com/desabrigadosEM",
+      "imagem":"desabrigados.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Desordem Jedi da Holonet",
+      "url":"https://www.facebook.com/groups/desordemjedidaholonet/",
+      "imagem":"desordem_holonet.png",
+      "tipo":"Grupo Facebook",
+      "class":"group"
+   },
+   {
+      "nome":"Em Algum Lugar do Universo",
+      "url":"https://www.youtube.com/channel/UCVUu0ad7NpI-vGykwYcZFBA",
+      "imagem":"em_algum_lugar.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Fail Wars",
+      "url":"http://www.failwars.blog.br/",
+      "imagem":"failwars1.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Fala Chewbacca",
+      "url":"https://www.facebook.com/falachewbacca",
+      "imagem":"fala_chewbacca.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Família Jedi",
+      "url":"http://familiajedi.com/",
+      "imagem":"familia_jedi.png",
+      "tipo":"Família/Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Frases de Star Wars",
+      "url":"http://www.frasesdestarwars.com.br/",
+      "imagem":"frases_sw.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Gabinete Imperial",
+      "url":"http://gabineteimperial.castwars.com/",
+      "imagem":"gabinete_imperial.png",
+      "tipo":"Podcast",
+      "class":"podcast"
+   },
+   {
+      "nome":"A Gazeta de Jakku",
+      "url":"https://agazetadejakku.net/",
+      "imagem":"gazeta_de_jakku.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Grupo Star Wars",
+      "url":"https://www.facebook.com/groups/starwarsfas",
+      "imagem":"gruposw.png",
+      "tipo":"Grupo Facebook",
+      "class":"group"
+   },
+   {
+      "nome":"Holocast",
+      "url":"http://holocast.terceiraterra.com/",
+      "imagem":"holocast.png",
+      "tipo":"Podcast",
+      "class":"podcast"
+   },
+   {
+      "nome":"Insta Wars",
+      "url":"https://www.instagram.com/instawarsbr/",
+      "imagem":"instawars.png",
+      "tipo":"Instagram",
+      "class":"instagram"
+   },
+   {
+      "nome":"InVader",
+      "url":"http://www.invader.blog.br/",
+      "imagem":"in_vader2.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Jedicenter",
+      "url":"http://www.jedicenter.com.br/",
+      "imagem":"jedicenter.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"KaminoKast",
+      "url":"http://kaminokast.castwars.com/",
+      "imagem":"kaminokast.png",
+      "tipo":"Podcast",
+      "class":"podcast"
+   },
+   {
+      "nome":"Lado Rio Negro",
+      "url":"https://www.facebook.com/ladorionegro/",
+      "imagem":"rio_negro.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Legião 501st",
+      "url":"http://www.legiao501.com.br/",
+      "imagem":"501.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Manolada da Força",
+      "url":"https://www.facebook.com/ManoladaDaForca",
+      "imagem":"manolada.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Mestres Jedi",
+      "url":"http://www.mestresjedi.com.br/",
+      "imagem":"mestre_jedi.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Negociações Star Wars",
+      "url":"https://www.facebook.com/groups/negociacoesstarwars/",
+      "imagem":"negociacoes.png",
+      "tipo":"Grupo Facebook",
+      "class":"group"
+   },
+   {
+      "nome":"O Poder da Força",
+      "url":"http://www.opoderdaforca.com.br/",
+      "imagem":"poder_da_forca.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Ordem Sith BR",
+      "url":"https://www.facebook.com/sithBR/",
+      "imagem":"ordem_sith2.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Senhora Vader",
+      "url":"https://www.facebook.com/asenhoravader/",
+      "imagem":"senhora_vader.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Seu Darth",
+      "url":"https://www.facebook.com/SeuDarth",
+      "imagem":"seu_darth.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Sociedade Jedi",
+      "url":"http://sociedadejedi.com.br/",
+      "imagem":"sociedadejedi3.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Star Wars Brasil",
+      "url":"https://www.youtube.com/channel/UC1zAA4Ki9OMwst2ic0sNZLw",
+      "imagem":"sw_brasil_youtube.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Star Wars Comentado",
+      "url":"https://www.youtube.com/channel/UCna3kB5mcsId33fY5Fqg0jQ",
+      "imagem":"swc.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Star Wars Holonet",
+      "url":"https://www.facebook.com/swtheholonet/",
+      "imagem":"holonet.png",
+      "tipo":"Fan Page / Jogos",
+      "class":"fanpage jogos"
+   },
+   {
+      "nome":"Star Wars que te quero bem",
+      "url":"https://www.facebook.com/starwarsquetequerobem/",
+      "imagem":"sw_quero_bem.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
+   },
+   {
+      "nome":"Star Wars Sem Mimimi",
+      "url":"https://www.facebook.com/groups/starwarsmimimi/",
+      "imagem":"sw_mimimi.png",
+      "tipo":"Grupo Facebook",
+      "class":"group"
+   },
+   {
+      "nome":"Star Wars Storyteller",
+      "url":"https://www.youtube.com/channel/UCvE4hqo8Y3YpuyNBmpDIYyQ",
+      "imagem":"swst.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Star Wars: The Universe",
+      "url":"http://www.starwarstheuniverse.com.br/",
+      "imagem":"swtu.png",
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
+   },
+   {
+      "nome":"Star Wars Wiki",
+      "url":"http://pt.starwars.wikia.com/",
+      "imagem":"swwiki2.png",
+      "tipo":"Enciclopédia",
+      "class":"enciclopedia"
+   },
+   {
+      "nome":"The Old Republic Brasil",
+      "url":"http://swtorbrasil.com.br/",
+      "imagem":"tor_brasil.png",
+      "tipo":"Jogos",
+      "class":"jogos"
+   },
+   {
+      "nome":"Trooper TV",
+      "url":"https://www.youtube.com/channel/UCFeeOdPJYzuebfV6DLYX6Pw",
+      "imagem":"trooper_tv.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   }
+]
