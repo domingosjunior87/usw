@@ -1,19 +1,5 @@
 [
    {
-      "nome":"Aliança Sith FSA",
-      "url":"https://www.facebook.com/aliancasithfsa/",
-      "imagem":"alianca_sith.png",
-      "tipo":"Fã Clube",
-      "class":"fanclube"
-   },
-   {
-      "nome":"Arsenal Imperial",
-      "url":"https://www.facebook.com/arsenalimperial",
-      "imagem":"arsenal.png",
-      "tipo":"Enciclopédia",
-      "class":"enciclopedia"
-   },
-   {
       "nome":"Battlefront Brasil",
       "url":"http://battlefrontbrasil.blogspot.com/",
       "imagem":"br_brasil.png",
@@ -33,27 +19,6 @@
       "imagem":"castwars.png",
       "tipo":"Notícias e Resenhas",
       "class":"noticias"
-   },
-   {
-      "nome":"Clone Troopers",
-      "url":"https://www.facebook.com/clonetroopers02",
-      "imagem":"clone_troopers.png",
-      "tipo":"Enciclopédia",
-      "class":"enciclopedia"
-   },
-   {
-      "nome":"Dark Vader",
-      "url":"https://www.facebook.com/darkvaderblog",
-      "imagem":"darkvader.png",
-      "tipo":"Fan Page",
-      "class":"fanpage"
-   },
-   {
-      "nome":"Datacron",
-      "url":"http://www.jedicenter.com.br/category/podcast/datacron/",
-      "imagem":"datacron.png",
-      "tipo":"Podcast",
-      "class":"podcast"
    },
    {
       "nome":"Desabrigados da Estrela da morte",
@@ -84,23 +49,9 @@
       "class":"noticias"
    },
    {
-      "nome":"Fala Chewbacca",
-      "url":"https://www.facebook.com/falachewbacca",
-      "imagem":"fala_chewbacca.png",
-      "tipo":"Fan Page",
-      "class":"fanpage"
-   },
-   {
-      "nome":"Família Jedi",
-      "url":"http://familiajedi.com/",
-      "imagem":"familia_jedi.png",
-      "tipo":"Família/Fã Clube",
-      "class":"fanclube"
-   },
-   {
       "nome":"Frases de Star Wars",
       "url":"http://www.frasesdestarwars.com.br/",
-      "imagem":"frases_sw.png",
+      "imagem":"fsw.jpg",
       "tipo":"Notícias e Resenhas",
       "class":"noticias"
    },
@@ -110,13 +61,6 @@
       "imagem":"gabinete_imperial.png",
       "tipo":"Podcast",
       "class":"podcast"
-   },
-   {
-      "nome":"A Gazeta de Jakku",
-      "url":"https://agazetadejakku.net/",
-      "imagem":"gazeta_de_jakku.png",
-      "tipo":"Notícias e Resenhas",
-      "class":"noticias"
    },
    {
       "nome":"Grupo Star Wars",
@@ -133,20 +77,6 @@
       "class":"podcast"
    },
    {
-      "nome":"Insta Wars",
-      "url":"https://www.instagram.com/instawarsbr/",
-      "imagem":"instawars.png",
-      "tipo":"Instagram",
-      "class":"instagram"
-   },
-   {
-      "nome":"InVader",
-      "url":"http://www.invader.blog.br/",
-      "imagem":"in_vader2.png",
-      "tipo":"Notícias e Resenhas",
-      "class":"noticias"
-   },
-   {
       "nome":"Jedicenter",
       "url":"http://www.jedicenter.com.br/",
       "imagem":"jedicenter.png",
@@ -161,13 +91,6 @@
       "class":"podcast"
    },
    {
-      "nome":"Lado Rio Negro",
-      "url":"https://www.facebook.com/ladorionegro/",
-      "imagem":"rio_negro.png",
-      "tipo":"Fã Clube",
-      "class":"fanclube"
-   },
-   {
       "nome":"Legião 501st",
       "url":"http://www.legiao501.com.br/",
       "imagem":"501.png",
@@ -180,13 +103,6 @@
       "imagem":"manolada.png",
       "tipo":"Fan Page",
       "class":"fanpage"
-   },
-   {
-      "nome":"Mestres Jedi",
-      "url":"http://www.mestresjedi.com.br/",
-      "imagem":"mestre_jedi.png",
-      "tipo":"Notícias e Resenhas",
-      "class":"noticias"
    },
    {
       "nome":"Negociações Star Wars",
@@ -231,13 +147,6 @@
       "class":"noticias"
    },
    {
-      "nome":"Star Wars Brasil",
-      "url":"https://www.youtube.com/channel/UC1zAA4Ki9OMwst2ic0sNZLw",
-      "imagem":"sw_brasil_youtube.png",
-      "tipo":"Canal Youtube",
-      "class":"channel_youtube"
-   },
-   {
       "nome":"Star Wars Comentado",
       "url":"https://www.youtube.com/channel/UCna3kB5mcsId33fY5Fqg0jQ",
       "imagem":"swc.png",
@@ -271,13 +180,6 @@
       "imagem":"swst.png",
       "tipo":"Canal Youtube",
       "class":"channel_youtube"
-   },
-   {
-      "nome":"Star Wars: The Universe",
-      "url":"http://www.starwarstheuniverse.com.br/",
-      "imagem":"swtu.png",
-      "tipo":"Notícias e Resenhas",
-      "class":"noticias"
    },
    {
       "nome":"Star Wars Wiki",
