@@ -1,10 +1,24 @@
 [
    {
+      "nome":"404th Legion",
+      "url":"https://www.facebook.com/404thLegionBrasil/",
+      "imagem":"404.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Aliança Rebelde",
+      "url":"https://www.facebook.com/aliancarebeldebr/",
+      "imagem":"alianca_rebelde.jpg",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
       "nome":"Battlefront Brasil",
-      "url":"http://battlefrontbrasil.blogspot.com/",
+      "url":"https://www.facebook.com/groups/BattlefrontBrasil/",
       "imagem":"br_brasil.png",
-      "tipo":"Jogos / Notícias e Resenhas",
-      "class":"jogos noticias"
+      "tipo":"Jogos / Grupo Facebook",
+      "class":"jogos group"
    },
    {
       "nome":"Blades Saber Team",
@@ -14,11 +28,25 @@
       "class":"fanclube"
    },
    {
+      "nome":"Canal Muito Distante",
+      "url":"https://www.youtube.com/channel/UCJyU39TyyTt1PPnorCvO72g",
+      "imagem":"canal_muito_distante.jpg",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
       "nome":"Cast Wars",
       "url":"http://castwars.com/",
-      "imagem":"castwars.png",
+      "imagem":"castwars2.png",
       "tipo":"Notícias e Resenhas",
       "class":"noticias"
+   },
+   {
+      "nome":"Conhecimento da Força",
+      "url":"https://www.facebook.com/pg/conhecimentodaforca",
+      "imagem":"conhecimento_forca.jpg",
+      "tipo":"Fan Page",
+      "class":"fanpage"
    },
    {
       "nome":"Desabrigados da Estrela da morte",
@@ -28,30 +56,37 @@
       "class":"fanpage"
    },
    {
-      "nome":"Desordem Jedi da Holonet",
-      "url":"https://www.facebook.com/groups/desordemjedidaholonet/",
-      "imagem":"desordem_holonet.png",
-      "tipo":"Grupo Facebook",
-      "class":"group"
-   },
-   {
-      "nome":"Em Algum Lugar do Universo",
-      "url":"https://www.youtube.com/channel/UCVUu0ad7NpI-vGykwYcZFBA",
-      "imagem":"em_algum_lugar.png",
+      "nome":"Diário Rebelde",
+      "url":"https://www.youtube.com/channel/UCnwM5weX1QDo7Tqof3_bS-A",
+      "imagem":"diario_rebelde.png",
       "tipo":"Canal Youtube",
       "class":"channel_youtube"
+   },
+   {
+      "nome":"Enclave da Força",
+      "url":"https://www.youtube.com/channel/UC5p0BDCGk41yN4s8JfBCaFg/",
+      "imagem":"enclave.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Expandindo Universos",
+      "url":"https://www.youtube.com/channel/UCVUu0ad7NpI-vGykwYcZFBA",
+      "imagem":"expandindo_universos.jpg",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Fala Chewbacca",
+      "url":"https://www.facebook.com/falachewbacca/",
+      "imagem":"fala_chewbacca.jpg",
+      "tipo":"Fan Page",
+      "class":"fanpage"
    },
    {
       "nome":"Fail Wars",
       "url":"http://www.failwars.blog.br/",
       "imagem":"failwars1.png",
-      "tipo":"Notícias e Resenhas",
-      "class":"noticias"
-   },
-   {
-      "nome":"Frases de Star Wars",
-      "url":"http://www.frasesdestarwars.com.br/",
-      "imagem":"fsw.jpg",
       "tipo":"Notícias e Resenhas",
       "class":"noticias"
    },
@@ -63,11 +98,46 @@
       "class":"podcast"
    },
    {
+      "nome":"Galatic Academy",
+      "url":"https://www.instagram.com/bespincampus/",
+      "imagem":"galactic_academy_bespin_campus_brazil.jpg",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Galatic Figures",
+      "url":"https://instagram.com/galactic_figures",
+      "imagem":"galatic_figures.jpg",
+      "tipo":"Instagram",
+      "class":"instagram"
+   },
+   {
+      "nome":"Galaxiando",
+      "url":"http://www.youtube.com/galaxiando",
+      "imagem":"galaxiando.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
       "nome":"Grupo Star Wars",
       "url":"https://www.facebook.com/groups/starwarsfas",
       "imagem":"gruposw.png",
       "tipo":"Grupo Facebook",
       "class":"group"
+   },
+   {
+      "nome":"Guerreiras Star Wars",
+      "url":"https://www.youtube.com/channel/UC_oIpkSM9BsTOBRPp1yIvdQ",
+      "imagem":"guerreiras.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Hiperespaço",
+      "url":"https://www.youtube.com/channel/UC8EudS8lD4c9JnrMmGJYYwA",
+      "imagem":"hiperespaco.png",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
    },
    {
       "nome":"Holocast",
@@ -98,11 +168,18 @@
       "class":"fanclube"
    },
    {
+      "nome":"Legião 501st Brasil Games",
+      "url":"https://www.facebook.com/groups/501stbrasilgames",
+      "imagem":"501st-brasil-games.jpg",
+      "tipo":"Jogos",
+      "class":"jogos"
+   },
+   {
       "nome":"Manolada da Força",
-      "url":"https://www.facebook.com/ManoladaDaForca",
+      "url":"http://manoladadaforca.com.br/",
       "imagem":"manolada.png",
-      "tipo":"Fan Page",
-      "class":"fanpage"
+      "tipo":"Notícias e Resenhas",
+      "class":"noticias"
    },
    {
       "nome":"Negociações Star Wars",
@@ -126,6 +203,20 @@
       "class":"fanpage"
    },
    {
+      "nome":"Rebel Legion",
+      "url":"https://www.facebook.com/rebellegionbr/",
+      "imagem":"rebel_legion.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"Resenha Wars",
+      "url":"https://www.instagram.com/resenha.wars/",
+      "imagem":"resenha_wars.jpg",
+      "tipo":"Instagram",
+      "class":"instagram"
+   },
+   {
       "nome":"Senhora Vader",
       "url":"https://www.facebook.com/asenhoravader/",
       "imagem":"senhora_vader.png",
@@ -134,8 +225,8 @@
    },
    {
       "nome":"Seu Darth",
-      "url":"https://www.facebook.com/SeuDarth",
-      "imagem":"seu_darth.png",
+      "url":"https://www.facebook.com/SeuDarth/",
+      "imagem":"seu_darth.jpg",
       "tipo":"Fan Page",
       "class":"fanpage"
    },
@@ -147,18 +238,18 @@
       "class":"noticias"
    },
    {
+      "nome":"Star Wars Action figure Brasil",
+      "url":"https://www.facebook.com/groups/swafcollectors/",
+      "imagem":"action_figures_brasil.jpg",
+      "tipo":"Grupo Facebook",
+      "class":"group"
+   },
+   {
       "nome":"Star Wars Comentado",
       "url":"https://www.youtube.com/channel/UCna3kB5mcsId33fY5Fqg0jQ",
       "imagem":"swc.png",
       "tipo":"Canal Youtube",
       "class":"channel_youtube"
-   },
-   {
-      "nome":"Star Wars Holonet",
-      "url":"https://www.facebook.com/swtheholonet/",
-      "imagem":"holonet.png",
-      "tipo":"Fan Page / Jogos",
-      "class":"fanpage jogos"
    },
    {
       "nome":"Star Wars que te quero bem",
@@ -168,18 +259,18 @@
       "class":"fanpage"
    },
    {
-      "nome":"Star Wars Sem Mimimi",
-      "url":"https://www.facebook.com/groups/starwarsmimimi/",
-      "imagem":"sw_mimimi.png",
-      "tipo":"Grupo Facebook",
-      "class":"group"
-   },
-   {
       "nome":"Star Wars Storyteller",
       "url":"https://www.youtube.com/channel/UCvE4hqo8Y3YpuyNBmpDIYyQ",
       "imagem":"swst.png",
       "tipo":"Canal Youtube",
       "class":"channel_youtube"
+   },
+   {
+      "nome":"Star Wars Universe",
+      "url":"https://www.facebook.com/swuniverse2/",
+      "imagem":"universe.png",
+      "tipo":"Fan Page",
+      "class":"fanpage"
    },
    {
       "nome":"Star Wars Wiki",
@@ -201,5 +292,26 @@
       "imagem":"trooper_tv.png",
       "tipo":"Canal Youtube",
       "class":"channel_youtube"
+   },
+   {
+      "nome":"Universo Expandido",
+      "url":"https://www.youtube.com/channel/UC75nkshPyrKoM_u8XY0qqSA/",
+      "imagem":"universo_expandido.jpg",
+      "tipo":"Canal Youtube",
+      "class":"channel_youtube"
+   },
+   {
+      "nome":"Vode'an clan Brasil",
+      "url":"https://www.facebook.com/vodeanbrasil/",
+      "imagem":"vode_an.jpg",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
+   },
+   {
+      "nome":"WuooN",
+      "url":"https://www.facebook.com/wuoonpublicteam",
+      "imagem":"wuoon.png",
+      "tipo":"Fã Clube",
+      "class":"fanclube"
    }
 ]
